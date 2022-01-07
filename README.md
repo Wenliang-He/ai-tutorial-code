@@ -1,5 +1,5 @@
 # ai-tutorial-code
-Code for AI related video tutorials
+Code for AI related video tutorials on Bilibili
 
 
 
@@ -38,4 +38,6 @@ Code for AI related video tutorials
   05_neural_networks_nlp.py
 
   https://www.bilibili.com/medialist/play/ml1272370565/
+
+
 
